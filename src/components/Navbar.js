@@ -13,7 +13,7 @@ export class Navbar extends Component {
             <ul className="navbar-nav">
                 {/* <Link className="button" to="/">NewsCompanion</Link> */}
                 <li className="btn heading my-2">
-                <Link className="nav-link active" aria-current="page" to="/sports">NewsCompanion</Link>
+                <Link className="nav-link active" aria-current="page" to="/">NewsCompanion</Link>
                 </li>
                 <li className="button">
                 <Link className="nav-link active" aria-current="page" to="/sports">Sports</Link>
